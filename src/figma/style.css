@@ -1,0 +1,1236 @@
+.slide {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.slide .div {
+    background-color: #ffffff;
+    border: 1px none;
+    height: 7456px;
+    position: relative;
+    width: 1920px;
+}
+
+.slide .overlap {
+    height: 1080px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1920px;
+}
+
+.slide .div-2 {
+    background-color: #f5f5f5;
+    height: 1080px;
+    left: 0;
+    position: absolute;
+    top: 1080px;
+    width: 1920px;
+}
+
+.slide .overlap-group {
+    background-image: url(https://generation-sessions.s3.amazonaws.com/226aab367fec91eff3f40ed65d983a44/img/rectangle-14.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 1080px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 899px;
+}
+
+.slide .rectangle {
+    height: 1080px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 899px;
+}
+
+.slide .rectangle-2 {
+    background-color: #0000004f;
+    height: 1080px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 899px;
+}
+
+.slide .text-wrapper {
+    color: #ffffff;
+    font-family: "Helvetica-Bold", Helvetica;
+    font-size: 250px;
+    font-weight: 700;
+    left: 143px;
+    letter-spacing: 0;
+    line-height: 250px;
+    position: absolute;
+    top: 291px;
+    white-space: nowrap;
+    width: 731px;
+}
+
+.slide .go-eat {
+    color: #000000;
+    font-family: "Helvetica-Regular", Helvetica;
+    font-size: 50px;
+    font-weight: 400;
+    left: 996px;
+    letter-spacing: 0;
+    line-height: 46.7px;
+    position: absolute;
+    top: 172px;
+    width: 849px;
+}
+
+.slide .text-wrapper-2 {
+    color: #3577f9;
+    font-family: "Helvetica-Bold", Helvetica;
+    font-size: 50px;
+    font-weight: 700;
+    left: 1131px;
+    letter-spacing: 0;
+    line-height: 46.7px;
+    position: absolute;
+    top: 515px;
+    white-space: nowrap;
+    width: 164px;
+}
+
+.slide .text-wrapper-3 {
+    color: #000000;
+    font-family: "Helvetica-Regular", Helvetica;
+    font-size: 30px;
+    font-weight: 400;
+    left: 1131px;
+    letter-spacing: 0;
+    line-height: 28px;
+    position: absolute;
+    top: 565px;
+    width: 744px;
+}
+
+.slide .text-wrapper-4 {
+    color: #000000;
+    font-family: "Helvetica-Regular", Helvetica;
+    font-size: 30px;
+    font-weight: 400;
+    left: 1131px;
+    letter-spacing: 0;
+    line-height: 28px;
+    position: absolute;
+    top: 704px;
+    width: 744px;
+}
+
+.slide .text-wrapper-5 {
+    color: #000000;
+    font-family: "Helvetica-Regular", Helvetica;
+    font-size: 30px;
+    font-weight: 400;
+    left: 1131px;
+    letter-spacing: 0;
+    line-height: 28px;
+    position: absolute;
+    top: 858px;
+    width: 744px;
+}
+
+.slide .text-wrapper-6 {
+    color: #3577f9;
+    font-family: "Helvetica-Bold", Helvetica;
+    font-size: 50px;
+    font-weight: 700;
+    left: 1131px;
+    letter-spacing: 0;
+    line-height: 46.7px;
+    position: absolute;
+    top: 654px;
+    white-space: nowrap;
+    width: 164px;
+}
+
+.slide .text-wrapper-7 {
+    color: #3577f9;
+    font-family: "Helvetica-Bold", Helvetica;
+    font-size: 50px;
+    font-weight: 700;
+    left: 1131px;
+    letter-spacing: 0;
+    line-height: 46.7px;
+    position: absolute;
+    top: 808px;
+    white-space: nowrap;
+    width: 221px;
+}
+
+.slide .telegram {
+    height: 44px;
+    left: 1006px;
+    object-fit: cover;
+    position: absolute;
+    top: 535px;
+    width: 44px;
+}
+
+.slide .instagram {
+    height: 38px;
+    left: 1067px;
+    object-fit: cover;
+    position: absolute;
+    top: 538px;
+    width: 38px;
+}
+
+.slide .img {
+    height: 44px;
+    left: 1061px;
+    object-fit: cover;
+    position: absolute;
+    top: 679px;
+    width: 44px;
+}
+
+.slide .telegram-2 {
+    height: 44px;
+    left: 1061px;
+    object-fit: cover;
+    position: absolute;
+    top: 828px;
+    width: 44px;
+}
+
+.slide .image {
+    height: 1080px;
+    left: 0;
+    position: absolute;
+    top: 2160px;
+    width: 1920px;
+}
+
+.slide .overlap-2 {
+    height: 4216px;
+    left: 0;
+    position: absolute;
+    top: 3240px;
+    width: 1920px;
+}
+
+.slide .view {
+    background-color: #f5f5f5;
+    height: 1080px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1920px;
+}
+
+.slide .overlap-3 {
+    height: 1080px;
+    position: relative;
+}
+
+.slide .overlap-4 {
+    height: 415px;
+    left: 34px;
+    position: absolute;
+    top: 493px;
+    width: 965px;
+}
+
+.slide .shortlist-plates {
+    color: #000000;
+    font-family: "Helvetica-Regular", Helvetica;
+    font-size: 50px;
+    font-weight: 400;
+    left: 119px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+}
+
+.slide .image-2 {
+    height: 146px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 160px;
+}
+
+.slide .image-3 {
+    height: 146px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 117px;
+    width: 160px;
+}
+
+.slide .image-4 {
+    height: 146px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 229px;
+    width: 160px;
+}
+
+.slide .image-5 {
+    height: 113px;
+    left: 18px;
+    object-fit: cover;
+    position: absolute;
+    top: 77px;
+    width: 124px;
+}
+
+.slide .image-6 {
+    height: 113px;
+    left: 18px;
+    object-fit: cover;
+    position: absolute;
+    top: 190px;
+    width: 124px;
+}
+
+.slide .image-7 {
+    height: 113px;
+    left: 18px;
+    object-fit: cover;
+    position: absolute;
+    top: 302px;
+    width: 124px;
+}
+
+.slide .telegram-cloud-photo {
+    height: 367px;
+    left: 1476px;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 444px;
+}
+
+.slide .text-wrapper-8 {
+    color: #000000;
+    font-family: "Helvetica-Bold", Helvetica;
+    font-size: 100px;
+    font-weight: 700;
+    left: 146px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 70px;
+    width: 1664px;
+}
+
+.slide .image-8 {
+    height: 272px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 257px;
+}
+
+.slide .p {
+    color: #000000;
+    font-family: "Helvetica-Regular", Helvetica;
+    font-size: 50px;
+    font-weight: 400;
+    left: 90px;
+    letter-spacing: 0;
+    line-height: 46.7px;
+    position: absolute;
+    top: 241px;
+    width: 1720px;
+}
+
+.slide .telegram-cloud-photo-2 {
+    height: 540px;
+    left: 1114px;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 568px;
+}
+
+.slide .telegram-cloud-photo-3 {
+    height: 582px;
+    left: 1114px;
+    object-fit: cover;
+    position: absolute;
+    top: 377px;
+    width: 523px;
+}
+
+.slide .telegram-cloud-photo-4 {
+    height: 262px;
+    left: 1258px;
+    object-fit: cover;
+    position: absolute;
+    top: 818px;
+    width: 361px;
+}
+
+.slide .element {
+    height: 642px;
+    left: 1530px;
+    object-fit: cover;
+    position: absolute;
+    top: 299px;
+    width: 389px;
+}
+
+.slide .image-9 {
+    height: 370px;
+    left: 1574px;
+    position: absolute;
+    top: 710px;
+    width: 346px;
+}
+
+.slide .view-2 {
+    background-color: #f5f5f5;
+    height: 1080px;
+    left: 0;
+    position: absolute;
+    top: 1057px;
+    width: 1920px;
+}
+
+.slide .overlap-5 {
+    height: 47px;
+    left: 1045px;
+    position: absolute;
+    top: 289px;
+    width: 765px;
+}
+
+.slide .rectangle-3 {
+    background-color: #3577f9;
+    border-radius: 13.5px;
+    height: 27px;
+    left: 363px;
+    position: absolute;
+    top: 11px;
+    width: 146px;
+}
+
+.slide .text-wrapper-9 {
+    color: #ffffff;
+    font-family: "Helvetica-Regular", Helvetica;
+    font-size: 25px;
+    font-weight: 400;
+    left: 373px;
+    letter-spacing: 0;
+    line-height: 23.4px;
+    position: absolute;
+    top: 10px;
+    white-space: nowrap;
+    width: 127px;
+}
+
+.slide .text-wrapper-10 {
+    color: #3577f9;
+    font-family: "Helvetica-Bold", Helvetica;
+    font-size: 50px;
+    font-weight: 700;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 46.7px;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+    width: 765px;
+}
+
+.slide .overlap-6 {
+    height: 272px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1810px;
+}
+
+.slide .telegram-3 {
+    height: 87px;
+    left: 791px;
+    object-fit: cover;
+    position: absolute;
+    top: 85px;
+    width: 87px;
+}
+
+.slide .text-wrapper-11 {
+    color: #3577f9;
+    font-family: "Helvetica-Bold", Helvetica;
+    font-size: 100px;
+    font-weight: 700;
+    left: 924px;
+    letter-spacing: 0;
+    line-height: 93.5px;
+    position: absolute;
+    top: 79px;
+    white-space: nowrap;
+    width: 445px;
+}
+
+.slide .overlap-7 {
+    height: 791px;
+    left: 9px;
+    position: absolute;
+    top: 289px;
+    width: 952px;
+}
+
+.slide .overlap-8 {
+    height: 686px;
+    left: 186px;
+    position: absolute;
+    top: 0;
+    width: 766px;
+}
+
+.slide .vector {
+    height: 685px;
+    left: 764px;
+    position: absolute;
+    top: 1px;
+    width: 1px;
+}
+
+.slide .div-3 {
+    color: #000000;
+    font-family: "Helvetica-Regular", Helvetica;
+    font-size: 50px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 46.7px;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+    width: 765px;
+}
+
+.slide .span {
+    text-decoration: underline;
+}
+
+.slide .text-wrapper-12 {
+    color: #000000;
+    font-family: "Helvetica-Regular", Helvetica;
+    font-size: 50px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 46.7px;
+}
+
+.slide .div-4 {
+    color: #000000;
+    font-family: "Helvetica-Regular", Helvetica;
+    font-size: 50px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 46.7px;
+    position: absolute;
+    top: 319px;
+    white-space: nowrap;
+    width: 765px;
+}
+
+.slide .div-5 {
+    color: #000000;
+    font-family: "Helvetica-Regular", Helvetica;
+    font-size: 50px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 46.7px;
+    position: absolute;
+    top: 453px;
+    white-space: nowrap;
+    width: 765px;
+}
+
+.slide .text-wrapper-13 {
+    color: #000000;
+    font-family: "Helvetica-Regular", Helvetica;
+    font-size: 50px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 46.7px;
+    position: absolute;
+    top: 600px;
+    width: 765px;
+}
+
+.slide .div-6 {
+    color: #000000;
+    font-family: "Helvetica-Regular", Helvetica;
+    font-size: 50px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 46.7px;
+    position: absolute;
+    top: 133px;
+    width: 765px;
+}
+
+.slide .overlap-9 {
+    height: 107px;
+    left: 0;
+    position: absolute;
+    top: 684px;
+    width: 819px;
+}
+
+.slide .text-wrapper-14 {
+    color: #00000038;
+    font-family: "Helvetica-Light", Helvetica;
+    font-size: 25px;
+    font-weight: 300;
+    left: 81px;
+    letter-spacing: 0;
+    line-height: 23.4px;
+    position: absolute;
+    top: 42px;
+    width: 738px;
+}
+
+.slide .image-10 {
+    height: 107px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 124px;
+}
+
+.slide .overlap-10 {
+    height: 28px;
+    left: 1045px;
+    position: absolute;
+    top: 496px;
+    width: 597px;
+}
+
+.slide .rectangle-4 {
+    background-color: #3577f9;
+    border-radius: 13.5px;
+    height: 27px;
+    left: 0;
+    position: absolute;
+    top: 1px;
+    width: 540px;
+}
+
+.slide .text-wrapper-15 {
+    color: #ffffff;
+    font-family: "Helvetica-Regular", Helvetica;
+    font-size: 25px;
+    font-weight: 400;
+    left: 10px;
+    letter-spacing: 0;
+    line-height: 23.4px;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+    width: 587px;
+}
+
+.slide .overlap-11 {
+    height: 47px;
+    left: 1045px;
+    position: absolute;
+    top: 883px;
+    width: 765px;
+}
+
+.slide .rectangle-5 {
+    background-color: #3577f9;
+    border-radius: 13.5px;
+    height: 29px;
+    left: 363px;
+    position: absolute;
+    top: 13px;
+    width: 194px;
+}
+
+.slide .text-wrapper-16 {
+    color: #ffffff;
+    font-family: "Helvetica-Regular", Helvetica;
+    font-size: 25px;
+    font-weight: 400;
+    left: 373px;
+    letter-spacing: 0;
+    line-height: 23.4px;
+    position: absolute;
+    top: 14px;
+    white-space: nowrap;
+}
+
+.slide .text-wrapper-17 {
+    color: #3577f9;
+    font-family: "Helvetica-Bold", Helvetica;
+    font-size: 50px;
+    font-weight: 700;
+    left: 1045px;
+    letter-spacing: 0;
+    line-height: 46.7px;
+    position: absolute;
+    top: 431px;
+    white-space: nowrap;
+    width: 765px;
+}
+
+.slide .text-wrapper-18 {
+    color: #3577f9;
+    font-family: "Helvetica-Bold", Helvetica;
+    font-size: 50px;
+    font-weight: 700;
+    left: 1045px;
+    letter-spacing: 0;
+    line-height: 46.7px;
+    position: absolute;
+    top: 608px;
+    white-space: nowrap;
+    width: 765px;
+}
+
+.slide .text-wrapper-19 {
+    color: #3577f9;
+    font-family: "Helvetica-Bold", Helvetica;
+    font-size: 50px;
+    font-weight: 700;
+    left: 1045px;
+    letter-spacing: 0;
+    line-height: 46.7px;
+    position: absolute;
+    top: 742px;
+    white-space: nowrap;
+    width: 765px;
+}
+
+.slide .view-3 {
+    background-color: #f5f5f5;
+    height: 1080px;
+    left: 0;
+    overflow: hidden;
+    position: absolute;
+    top: 2120px;
+    width: 1920px;
+}
+
+.slide .overlap-12 {
+    height: 379px;
+    left: 90px;
+    position: absolute;
+    top: 233px;
+    width: 2009px;
+}
+
+.slide .instagram-2 {
+    height: 90px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 90px;
+}
+
+.slide .overlap-13 {
+    height: 379px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 2009px;
+}
+
+.slide .telegram-4 {
+    height: 87px;
+    left: 961px;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 87px;
+}
+
+.slide .overlap-14 {
+    height: 379px;
+    left: 140px;
+    position: absolute;
+    top: 0;
+    width: 1869px;
+}
+
+.slide .text-wrapper-20 {
+    color: #3577f9;
+    font-family: "Helvetica-Bold", Helvetica;
+    font-size: 50px;
+    font-weight: 700;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 46.7px;
+    position: absolute;
+    top: 19px;
+    white-space: nowrap;
+    width: 765px;
+}
+
+.slide .vector-2 {
+    height: 379px;
+    left: 730px;
+    position: absolute;
+    top: 0;
+    width: 1px;
+}
+
+.slide .text-wrapper-21 {
+    color: #3577f9;
+    font-family: "Helvetica-Bold", Helvetica;
+    font-size: 50px;
+    font-weight: 700;
+    left: 283px;
+    letter-spacing: 0;
+    line-height: 46.7px;
+    position: absolute;
+    top: 147px;
+    white-space: nowrap;
+    width: 765px;
+}
+
+.slide .text-wrapper-22 {
+    color: #000000;
+    font-family: "Helvetica-Regular", Helvetica;
+    font-size: 40px;
+    font-weight: 400;
+    left: 821px;
+    letter-spacing: 0;
+    line-height: 37.4px;
+    position: absolute;
+    text-decoration: underline;
+    top: 147px;
+    width: 421px;
+}
+
+.slide .text-wrapper-23 {
+    color: #3577f9;
+    font-family: "Helvetica-Bold", Helvetica;
+    font-size: 50px;
+    font-weight: 700;
+    left: 1104px;
+    letter-spacing: 0;
+    line-height: 46.7px;
+    position: absolute;
+    top: 147px;
+    white-space: nowrap;
+    width: 765px;
+}
+
+.slide .text-wrapper-24 {
+    color: #3577f9;
+    font-family: "Helvetica-Bold", Helvetica;
+    font-size: 50px;
+    font-weight: 700;
+    left: 283px;
+    letter-spacing: 0;
+    line-height: 46.7px;
+    position: absolute;
+    top: 258px;
+    white-space: nowrap;
+    width: 765px;
+}
+
+.slide .rectangle-6 {
+    background-color: #3577f9;
+    border-radius: 13.5px;
+    height: 27px;
+    left: 1463px;
+    position: absolute;
+    top: 162px;
+    width: 109px;
+}
+
+.slide .text-wrapper-25 {
+    color: #ffffff;
+    font-family: "Helvetica-Regular", Helvetica;
+    font-size: 25px;
+    font-weight: 400;
+    left: 1473px;
+    letter-spacing: 0;
+    line-height: 23.4px;
+    position: absolute;
+    top: 161px;
+    white-space: nowrap;
+    width: 396px;
+}
+
+.slide .text-wrapper-26 {
+    color: #000000;
+    font-family: "Helvetica-Regular", Helvetica;
+    font-size: 40px;
+    font-weight: 400;
+    left: 821px;
+    letter-spacing: 0;
+    line-height: 37.4px;
+    position: absolute;
+    text-decoration: underline;
+    top: 273px;
+    width: 421px;
+}
+
+.slide .text-wrapper-27 {
+    color: #3577f9;
+    font-family: "Helvetica-Bold", Helvetica;
+    font-size: 50px;
+    font-weight: 700;
+    left: 1104px;
+    letter-spacing: 0;
+    line-height: 46.7px;
+    position: absolute;
+    top: 264px;
+    white-space: nowrap;
+    width: 765px;
+}
+
+.slide .rectangle-7 {
+    background-color: #3577f9;
+    border-radius: 13.5px;
+    height: 27px;
+    left: 1463px;
+    position: absolute;
+    top: 279px;
+    width: 109px;
+}
+
+.slide .text-wrapper-28 {
+    color: #ffffff;
+    font-family: "Helvetica-Regular", Helvetica;
+    font-size: 25px;
+    font-weight: 400;
+    left: 1473px;
+    letter-spacing: 0;
+    line-height: 23.4px;
+    position: absolute;
+    top: 278px;
+    white-space: nowrap;
+    width: 396px;
+}
+
+.slide .text-wrapper-29 {
+    color: #3577f9;
+    font-family: "Helvetica-Bold", Helvetica;
+    font-size: 50px;
+    font-weight: 700;
+    left: 1104px;
+    letter-spacing: 0;
+    line-height: 46.7px;
+    position: absolute;
+    top: 19px;
+    white-space: nowrap;
+    width: 765px;
+}
+
+.slide .div-7 {
+    color: #000000;
+    font-family: "Helvetica-Regular", Helvetica;
+    font-size: 40px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 37.4px;
+    position: absolute;
+    top: 147px;
+    width: 421px;
+}
+
+.slide .text-wrapper-30 {
+    color: #000000;
+    font-family: "Helvetica-Regular", Helvetica;
+    font-size: 40px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 37.4px;
+}
+
+.slide .text-wrapper-31 {
+    color: #000000;
+    font-family: "Helvetica-Regular", Helvetica;
+    font-size: 40px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 37.4px;
+    position: absolute;
+    top: 273px;
+    width: 421px;
+}
+
+.slide .overlap-15 {
+    height: 28px;
+    left: 421px;
+    position: absolute;
+    top: 319px;
+    width: 406px;
+}
+
+.slide .rectangle-8 {
+    background-color: #3577f9;
+    border-radius: 13.5px;
+    height: 27px;
+    left: 0;
+    position: absolute;
+    top: 1px;
+    width: 406px;
+}
+
+.slide .text-wrapper-32 {
+    color: #ffffff;
+    font-family: "Helvetica-Regular", Helvetica;
+    font-size: 25px;
+    font-weight: 400;
+    left: 10px;
+    letter-spacing: 0;
+    line-height: 23.4px;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+    width: 396px;
+}
+
+.slide .overlap-16 {
+    height: 107px;
+    left: 9px;
+    position: absolute;
+    top: 973px;
+    width: 819px;
+}
+
+.slide .overlap-17 {
+    height: 70px;
+    left: 90px;
+    position: absolute;
+    top: 776px;
+    width: 1670px;
+}
+
+.slide .telegram-instagram {
+    color: #000000;
+    font-family: "Helvetica-Regular", Helvetica;
+    font-size: 40px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 37.4px;
+    position: absolute;
+    top: 11px;
+    width: 1006px;
+}
+
+.slide .text-wrapper-33 {
+    color: #3577f9;
+    font-family: "Helvetica-Bold", Helvetica;
+    font-size: 50px;
+    font-weight: 700;
+    left: 905px;
+    letter-spacing: 0;
+    line-height: 46.7px;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+    width: 765px;
+}
+
+.slide .div-wrapper {
+    background-color: #3577f9;
+    border-radius: 33px;
+    height: 66px;
+    left: 90px;
+    position: absolute;
+    top: 687px;
+    width: 211px;
+}
+
+.slide .text-wrapper-34 {
+    color: #ffffff;
+    font-family: "Helvetica-Bold", Helvetica;
+    font-size: 40px;
+    font-weight: 700;
+    left: 44px;
+    letter-spacing: 0;
+    line-height: 37.4px;
+    position: absolute;
+    top: 13px;
+    white-space: nowrap;
+    width: 123px;
+}
+
+.slide .overlap-wrapper {
+    background-color: #3577f9;
+    height: 1080px;
+    left: 0;
+    position: absolute;
+    top: 3136px;
+    width: 1920px;
+}
+
+.slide .text-wrapper-35 {
+    color: #ffffff;
+    font-family: "Helvetica-Bold", Helvetica;
+    font-size: 50px;
+    font-weight: 700;
+    left: 897px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 835px;
+    white-space: nowrap;
+}
+
+.slide .mask-group {
+    height: 538px;
+    left: 343px;
+    position: absolute;
+    top: 0;
+    width: 696px;
+}
+
+.slide .mask-group-2 {
+    height: 449px;
+    left: 1224px;
+    position: absolute;
+    top: 631px;
+    width: 696px;
+}
+
+.slide .mask-group-3 {
+    height: 703px;
+    left: 906px;
+    position: absolute;
+    top: 143px;
+    width: 700px;
+}
+
+.slide .mask-group-4 {
+    height: 485px;
+    left: 1546px;
+    position: absolute;
+    top: 353px;
+    width: 374px;
+}
+
+.slide .mask-group-5 {
+    height: 359px;
+    left: 309px;
+    position: absolute;
+    top: 721px;
+    width: 648px;
+}
+
+.slide .mask-group-6 {
+    height: 621px;
+    left: 0;
+    position: absolute;
+    top: 364px;
+    width: 357px;
+}
+
+.slide .mask-group-7 {
+    height: 419px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 493px;
+}
+
+.slide .text-wrapper-36 {
+    color: #ffffff;
+    font-family: "Helvetica-Bold", Helvetica;
+    font-size: 100px;
+    font-weight: 700;
+    left: 774px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 66px;
+    width: 606px;
+}
+
+.slide .telegram-cloud-photo-5 {
+    height: 961px;
+    left: 65px;
+    object-fit: cover;
+    position: absolute;
+    top: 58px;
+    width: 640px;
+}
+
+.slide .go-eat-2 {
+    color: #ffffff;
+    font-family: "Helvetica-Regular", Helvetica;
+    font-size: 50px;
+    font-weight: 400;
+    left: 786px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 682px;
+}
+
+.slide .email {
+    height: 81px;
+    left: 786px;
+    object-fit: cover;
+    position: absolute;
+    top: 932px;
+    width: 81px;
+}
+
+.slide .text-wrapper-37 {
+    color: #ffffff;
+    font-family: "Helvetica-Bold", Helvetica;
+    font-size: 50px;
+    font-weight: 700;
+    left: 898px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-decoration: underline;
+    top: 941px;
+    white-space: nowrap;
+}
+
+.slide .qrr {
+    height: 164px;
+    left: 786px;
+    object-fit: cover;
+    position: absolute;
+    top: 495px;
+    width: 164px;
+}
+
+.slide .mask-group-8 {
+    height: 370px;
+    left: 1461px;
+    position: absolute;
+    top: 0;
+    width: 459px;
+}
+
+.slide .mask-group-9 {
+    height: 87px;
+    left: 783px;
+    position: absolute;
+    top: 821px;
+    width: 87px;
+}
