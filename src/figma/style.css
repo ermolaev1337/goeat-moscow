@@ -251,6 +251,7 @@
     letter-spacing: 0;
     line-height: normal;
     position: absolute;
+    top: 46px;
 }
 
 .slide .image-2 {
