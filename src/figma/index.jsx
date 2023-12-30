@@ -164,7 +164,7 @@ export const Slide = () => {
                         <div className="overlap-5">
                             <div className="rectangle-3" />
                             <div className="text-wrapper-9">+ депозит</div>
-                            <div className="text-wrapper-10">17.000 рублей</div>
+                            <div className="text-wrapper-10">18.000 рублей</div>
                         </div>
                         <div className="overlap-6">
                             <div className="text-wrapper-8">О РЕКЛАМЕ</div>
@@ -232,11 +232,11 @@ export const Slide = () => {
                         <div className="overlap-11">
                             <div className="rectangle-5" />
                             <div className="text-wrapper-16">к обзору/посту</div>
-                            <div className="text-wrapper-10">+5.000 рублей</div>
+                            <div className="text-wrapper-10">+6.000 рублей</div>
                         </div>
-                        <div className="text-wrapper-17">12.000 рублей</div>
-                        <div className="text-wrapper-18">от 17.000 рублей</div>
-                        <div className="text-wrapper-19">7.000 рублей</div>
+                        <div className="text-wrapper-17">13.000 рублей</div>
+                        <div className="text-wrapper-18">от 18.000 рублей</div>
+                        <div className="text-wrapper-19">8.000 рублей</div>
                     </div>
                     <div className="view-3">
                         <div className="overlap-12">
@@ -258,7 +258,7 @@ export const Slide = () => {
                                         alt="Vector"
                                         src="https://generation-sessions.s3.amazonaws.com/226aab367fec91eff3f40ed65d983a44/img/vector-1.svg"
                                     />
-                                    <div className="text-wrapper-21">7.000 рублей</div>
+                                    <div className="text-wrapper-21">8.000 рублей</div>
                                     <a
                                         className="text-wrapper-22"
                                         href="https://t.me/goeat_spb/2894"
@@ -267,7 +267,7 @@ export const Slide = () => {
                                     >
                                         GoSpb
                                     </a>
-                                    <div className="text-wrapper-23">4.000 рублей</div>
+                                    <div className="text-wrapper-23">6.000 рублей</div>
                                     <div className="text-wrapper-24">2.000 рублей</div>
                                     <div className="rectangle-6" />
                                     <div className="text-wrapper-25">за пост</div>
@@ -311,7 +311,7 @@ export const Slide = () => {
                         </div>
                         <div className="overlap-17">
                             <p className="telegram-instagram">Обзор в Telegram-канале + обзор в Instagram</p>
-                            <div className="text-wrapper-33">20.000 рублей</div>
+                            <div className="text-wrapper-33">24.000 рублей</div>
                         </div>
                         <div className="div-wrapper">
                             <div className="text-wrapper-34">Пакет</div>
