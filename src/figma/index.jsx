@@ -33,10 +33,10 @@ export const Slide = () => {
                     <div className="text-wrapper-2">GoEat</div>
                     <div className="text-wrapper-3">рестораны и события Москвы</div>
                     <div className="text-wrapper-4">рестораны и события Санкт-Петербурга</div>
-                    <div className="text-wrapper-5">барные новости России</div>
+                    {/*<div className="text-wrapper-5">барные новости России</div>*/}
                     <div className="text-wrapper-6">GoSpb</div>
-                    <div className="text-wrapper-7">GoDrink</div>
-                    <img
+                    {/*<div className="text-wrapper-7">GoDrink</div>*/}
+                    {/*<img*/}
                         className="telegram"
                         alt="Telegram"
                         src="https://generation-sessions.s3.amazonaws.com/226aab367fec91eff3f40ed65d983a44/img/telegram--2--2-2@2x.png"
@@ -51,11 +51,11 @@ export const Slide = () => {
                         alt="Telegram"
                         src="https://generation-sessions.s3.amazonaws.com/226aab367fec91eff3f40ed65d983a44/img/telegram--2--2-2@2x.png"
                     />
-                    <img
-                        className="telegram-2"
-                        alt="Telegram"
-                        src="https://generation-sessions.s3.amazonaws.com/226aab367fec91eff3f40ed65d983a44/img/telegram--2--2-2@2x.png"
-                    />
+                    {/*<img*/}
+                    {/*    className="telegram-2"*/}
+                    {/*    alt="Telegram"*/}
+                    {/*    src="https://generation-sessions.s3.amazonaws.com/226aab367fec91eff3f40ed65d983a44/img/telegram--2--2-2@2x.png"*/}
+                    {/*/>*/}
                 </div>
                 <img
                     className="image"
@@ -164,7 +164,7 @@ export const Slide = () => {
                         <div className="overlap-5">
                             <div className="rectangle-3" />
                             <div className="text-wrapper-9">+ депозит</div>
-                            <div className="text-wrapper-10">18.000 рублей</div>
+                            <div className="text-wrapper-10">22.000 рублей</div>
                         </div>
                         <div className="overlap-6">
                             <div className="text-wrapper-8">О РЕКЛАМЕ</div>
@@ -234,9 +234,9 @@ export const Slide = () => {
                             <div className="text-wrapper-16">к обзору/посту</div>
                             <div className="text-wrapper-10">+6.000 рублей</div>
                         </div>
-                        <div className="text-wrapper-17">13.000 рублей</div>
-                        <div className="text-wrapper-18">от 18.000 рублей</div>
-                        <div className="text-wrapper-19">8.000 рублей</div>
+                        <div className="text-wrapper-17">15.000 рублей</div>
+                        <div className="text-wrapper-18">от 25.000 рублей</div>
+                        <div className="text-wrapper-19">10.000 рублей</div>
                     </div>
                     <div className="view-3">
                         <div className="overlap-12">
@@ -258,7 +258,7 @@ export const Slide = () => {
                                         alt="Vector"
                                         src="https://generation-sessions.s3.amazonaws.com/226aab367fec91eff3f40ed65d983a44/img/vector-1.svg"
                                     />
-                                    <div className="text-wrapper-21">8.000 рублей</div>
+                                    <div className="text-wrapper-21">11.000 рублей</div>
                                     <a
                                         className="text-wrapper-22"
                                         href="https://t.me/goeat_spb/2894"
@@ -271,17 +271,17 @@ export const Slide = () => {
                                     <div className="text-wrapper-24">2.000 рублей</div>
                                     <div className="rectangle-6" />
                                     <div className="text-wrapper-25">за пост</div>
-                                    <a
-                                        className="text-wrapper-26"
-                                        href="https://t.me/drink_go/585"
-                                        rel="noopener noreferrer"
-                                        target="_blank"
-                                    >
-                                        GoDrink
-                                    </a>
-                                    <div className="text-wrapper-27">2.000 рублей</div>
-                                    <div className="rectangle-7" />
-                                    <div className="text-wrapper-28">за пост</div>
+                                    {/*<a*/}
+                                    {/*    className="text-wrapper-26"*/}
+                                    {/*    href="https://t.me/drink_go/585"*/}
+                                    {/*    rel="noopener noreferrer"*/}
+                                    {/*    target="_blank"*/}
+                                    {/*>*/}
+                                    {/*    GoDrink*/}
+                                    {/*</a>*/}
+                                    {/*<div className="text-wrapper-27">2.000 рублей</div>*/}
+                                    {/*<div className="rectangle-7" />*/}
+                                    {/*<div className="text-wrapper-28">за пост</div>*/}
                                 </div>
                                 <div className="text-wrapper-29">Telegram</div>
                                 <div className="div-7">
