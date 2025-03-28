@@ -311,7 +311,7 @@ export const Slide = () => {
                         </div>
                         <div className="overlap-17">
                             <p className="telegram-instagram">Обзор в Telegram-канале + обзор в Instagram</p>
-                            <div className="text-wrapper-33">24.000 рублей</div>
+                            <div className="text-wrapper-33">30.000 рублей</div>
                         </div>
                         <div className="div-wrapper">
                             <div className="text-wrapper-34">Пакет</div>
