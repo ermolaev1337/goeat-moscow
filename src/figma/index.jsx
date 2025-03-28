@@ -36,7 +36,7 @@ export const Slide = () => {
                     {/*<div className="text-wrapper-5">барные новости России</div>*/}
                     <div className="text-wrapper-6">GoSpb</div>
                     {/*<div className="text-wrapper-7">GoDrink</div>*/}
-                    {/*<img*/}
+                    <img
                         className="telegram"
                         alt="Telegram"
                         src="https://generation-sessions.s3.amazonaws.com/226aab367fec91eff3f40ed65d983a44/img/telegram--2--2-2@2x.png"
